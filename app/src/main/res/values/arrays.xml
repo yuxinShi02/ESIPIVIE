@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="groups">
+        <item>L1</item>
+        <item>L2</item>
+        <item>FISE ING1</item>
+        <item>FISA A ING1</item>
+        <item>FISA B ING1</item>
+        <item>FISE ING2</item>
+        <item>FISA A ING2</item>
+        <item>FISE B ING2</item>
+        <item>FISE ING3</item>
+        <item>FISA A ING3</item>
+        <item>FISA B ING3</item>
+    </string-array>
+
+</resources>
